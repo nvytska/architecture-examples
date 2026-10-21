@@ -480,3 +480,11 @@ $RECYCLE.BIN/
 
 # Vim temporary swap files
 *.swp
+
+# Instructor-only reflection source and sample runner
+/Reflections.UserCommands/
+/Reflections.Sample/
+
+# Compiled reflection exercise supplied to students
+!/Reflections.Exercise/Command.Contracts.dll
+!/Reflections.Exercise/UserCommands.dll
